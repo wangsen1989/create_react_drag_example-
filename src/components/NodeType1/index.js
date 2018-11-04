@@ -1,7 +1,7 @@
 import * as React from "react";
 
 import {DefaultNode} from "react-dag";
-import { css, StyleAttribute } from "glamor";
+import { css } from "glamor";
 import { getSettings } from "../../settings/dag-settings";
 import { theme } from "../../styles";
 
