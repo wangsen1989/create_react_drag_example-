@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "dagre": "^0.8.2",
+    "glamor": "latest",
+    "lodash.clonedeep": "latest",
     "react": "^16.6.0",
+    "react-dag": "latest",
     "react-dom": "^16.6.0",
     "react-scripts": "2.1.1"
   },
